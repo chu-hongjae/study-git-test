@@ -11,4 +11,5 @@ const run = () =>{
 
 const add = () =>{
     console.log('add method ');
+    console.log('dev dev ');
 }

@@ -8,6 +8,7 @@ const run = () =>{
     console.log('commit #6');
     console.log('commit #7');
     console.log('commit #8');
+    console.log('commit #9');
 }
 
 
@@ -15,3 +16,4 @@ const add = () =>{
     console.log('add method ');
     console.log('dev dev ');
 }
+

@@ -5,6 +5,7 @@ const run = () =>{
     console.log('more commit');
     console.log('commit dev');
     console.log('commit #5');
+    console.log('commit #6');
 }
 
 

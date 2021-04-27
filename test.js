@@ -5,3 +5,8 @@ const run = () =>{
     console.log('more commit');
     console.log('commit dev');
 }
+
+
+const add = () =>{
+    console.log('add method ');
+}
